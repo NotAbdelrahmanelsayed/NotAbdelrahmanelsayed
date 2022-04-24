@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **abdelrahmanelsayed@mail.com**
 
-- ⚡ Fun fact **To 2060, I intend to study AI and ML**
+- ⚡ Fun fact **To 2060, I intend to study AI and ML ♥ **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
