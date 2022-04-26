@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Spark Foundation**
 
-- 🌱 I’m currently learning **Machine learning**
+- 🌱 I’m currently learning **Machine learning ==> (stanford course andrew ng ) ([book] "hands on machine learning")**
 
 - 👨‍💻 All of my projects are available at [https://github.com/NotAbdelrahmanelsayed?tab=repositories](https://github.com/NotAbdelrahmanelsayed?tab=repositories)
 
