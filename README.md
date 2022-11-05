@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abdelrahman Elsayed</h1>
-<h3 align="center">Passionate about data science and machine learning</h3>
+<h3 align="center">Passionate about machine learning, Deep learning specially Computer Vision</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=notabdelrahmanelsayed&label=Profile%20views&color=0e75b6&style=flat" alt="notabdelrahmanelsayed" /> </p>
 
-- 🔭 I’m currently working on **Spark Foundation**
-
-- 🌱 I’m currently learning **Machine learning ==> (stanford course andrew ng ) ([book] "hands on machine learning")**
+- 🌱 I’m currently learning **Deep learning ==> (Deep learning specialization Andrew NG ) ([book] "hands on machine learning")**
 
 - 👨‍💻 All of my projects are available at [https://github.com/NotAbdelrahmanelsayed?tab=repositories](https://github.com/NotAbdelrahmanelsayed?tab=repositories)
 
