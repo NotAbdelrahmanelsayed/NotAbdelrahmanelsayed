@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/NotAbdelrahmanelsayed?tab=repositories](https://github.com/NotAbdelrahmanelsayed?tab=repositories)
 
-- 📫 How to reach me **abdelrahmanelsayed@mail.com**
+<!-- - 📫 How to reach me **abdelrahmanelsayed@mail.com** -->
 
 - ⚡ Fun fact **To 2060, I intend to study AI and ML ♥ **
 <!-- 
